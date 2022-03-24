@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Java Debug Server Plugin
+Bundle-SymbolicName: com.microsoft.java.debug.plugin;singleton:=true
+Bundle-Version: 0.35.0
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Bundle-ActivationPolicy: lazy
+Bundle-Activator: com.microsoft.java.debug.plugin.internal.JavaDebuggerS
+ erverPlugin
+Bundle-Vendor: Microsoft
+Import-Package: org.eclipse.jdt.core,org.eclipse.jdt.launching,org.osgi.
+ framework;version="1.3.0"
+Require-Bundle: org.eclipse.core.runtime,org.eclipse.debug.core,org.ecli
+ pse.jdt.debug,org.eclipse.jdt.core,org.eclipse.jdt.core.manipulation,or
+ g.eclipse.jdt.ls.core,org.eclipse.jdt.launching,com.google.gson,org.apa
+ che.commons.lang3,org.eclipse.lsp4j,com.google.guava
+Bundle-ClassPath: lib/commons-io-2.11.0.jar,.,lib/rxjava-2.2.21.jar,lib/
+ reactive-streams-1.0.3.jar,lib/com.microsoft.java.debug.core-0.35.0.jar
+

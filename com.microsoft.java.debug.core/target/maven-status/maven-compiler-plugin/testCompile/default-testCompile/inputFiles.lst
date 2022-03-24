@@ -1,0 +1,17 @@
+/home/chris/.config/nvim/java-debug/com.microsoft.java.debug.core/src/test/java/com/microsoft/java/debug/core/DebugSessionFactory.java
+/home/chris/.config/nvim/java-debug/com.microsoft.java.debug.core/src/test/java/com/microsoft/java/debug/core/adapter/formatter/CharacterFormatterTest.java
+/home/chris/.config/nvim/java-debug/com.microsoft.java.debug.core/src/test/java/com/microsoft/java/debug/core/adapter/formatter/NumericFormatterTest.java
+/home/chris/.config/nvim/java-debug/com.microsoft.java.debug.core/src/test/java/com/microsoft/java/debug/core/adapter/formatter/SimpleTypeFormatterTest.java
+/home/chris/.config/nvim/java-debug/com.microsoft.java.debug.core/src/test/java/com/microsoft/java/debug/core/adapter/formatter/StringObjectFormatterTest.java
+/home/chris/.config/nvim/java-debug/com.microsoft.java.debug.core/src/test/java/com/microsoft/java/debug/core/adapter/formatter/TypeIdentifiersTest.java
+/home/chris/.config/nvim/java-debug/com.microsoft.java.debug.core/src/test/java/com/microsoft/java/debug/core/adapter/formatter/ArrayObjectFormatterTest.java
+/home/chris/.config/nvim/java-debug/com.microsoft.java.debug.core/src/test/java/com/microsoft/java/debug/core/adapter/formatter/ClassObjectFormatterTest.java
+/home/chris/.config/nvim/java-debug/com.microsoft.java.debug.core/src/test/java/com/microsoft/java/debug/core/adapter/BaseJdiTestCase.java
+/home/chris/.config/nvim/java-debug/com.microsoft.java.debug.core/src/test/java/com/microsoft/java/debug/core/adapter/formatter/BooleanFormatterTest.java
+/home/chris/.config/nvim/java-debug/com.microsoft.java.debug.core/src/test/java/com/microsoft/java/debug/core/AbstractJdiTestCase.java
+/home/chris/.config/nvim/java-debug/com.microsoft.java.debug.core/src/test/java/com/microsoft/java/debug/core/adapter/formatter/ObjectFormatterTest.java
+/home/chris/.config/nvim/java-debug/com.microsoft.java.debug.core/src/test/java/com/microsoft/java/debug/core/adapter/ProviderContextTest.java
+/home/chris/.config/nvim/java-debug/com.microsoft.java.debug.core/src/test/java/com/microsoft/java/debug/core/CompileUtils.java
+/home/chris/.config/nvim/java-debug/com.microsoft.java.debug.core/src/test/java/com/microsoft/java/debug/core/adapter/formatter/NullObjectFormatterTest.java
+/home/chris/.config/nvim/java-debug/com.microsoft.java.debug.core/src/test/java/com/microsoft/java/debug/core/adapter/variables/VariableUtilsTest.java
+/home/chris/.config/nvim/java-debug/com.microsoft.java.debug.core/src/test/java/com/microsoft/java/debug/core/adapter/LRUCacheTest.java
